@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2019/02/27 14:46:46.000.753,=C:\Users\Gustavo\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/02/27 14:55:47.000.349,=C:\Users\Gustavo\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/02/27 18:44:33.000.740,=C:\Users\Gustavo\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/02/28 01:00:07.000.153,=C:\Users\Gustavo\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/02/28 12:57:47.000.835,=C:\Users\Gustavo\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/02/28 13:08:34.000.770,=C:\Users\Gustavo\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/02/28 20:38:06.000.626,=C:\Users\Gustavo\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/03/02 15:21:24.000.466,=C:\Users\Gustavo\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/03/06 22:59:26.000.084,=C:\Users\Gustavo\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/04/16 12:53:26.000.699,=C:\Users\Gustavo\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/07/01 12:26:39.000.413,=C:\Users\Gustavo\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/07/02 00:19:00.000.842,=C:\Users\Gustavo\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/07/15 13:26:13.000.248,=C:\Users\Gustavo\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/07/24 00:11:41.000.111,=C:\Users\Gustavo\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/08/28 21:34:50.000.391,=C:\Users\Gustavo\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/08/28 21:44:29.000.856,C:\Projetos Gustavo\Clinica Soft\fontes\principal.pas=C:\Users\Gustavo\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/08/28 21:44:29.000.856,C:\Projetos Gustavo\Clinica Soft\fontes\principal.dfm=C:\Users\Gustavo\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2019/08/28 21:44:42.000.512,C:\Projetos Gustavo\Clinica Soft\fontes\Clinica_Soft.dproj=C:\Users\Gustavo\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2019/08/30 20:46:29.000.941,=C:\Projetos Gustavo\Clinica Soft\fontes\Unit1.pas</Transaction>
+    <Transaction>2019/08/30 20:47:23.000.611,C:\Projetos Gustavo\Clinica Soft\fontes\modulo.dfm=C:\Projetos Gustavo\Clinica Soft\fontes\Unit1.dfm</Transaction>
+    <Transaction>2019/08/30 20:47:23.000.611,C:\Projetos Gustavo\Clinica Soft\fontes\modulo.pas=C:\Projetos Gustavo\Clinica Soft\fontes\Unit1.pas</Transaction>
+    <Transaction>2019/08/30 21:10:32.000.729,=C:\Projetos Gustavo\Clinica Soft\fontes\Unit1.pas</Transaction>
+    <Transaction>2019/08/30 21:34:01.000.646,=C:\Projetos Gustavo\Clinica Soft\fontes\Unit1.pas</Transaction>
+    <Transaction>2019/08/30 21:51:30.000.547,=C:\Projetos Gustavo\Clinica Soft\fontes\Unit1.pas</Transaction>
+    <Transaction>2019/09/03 21:21:01.000.019,=C:\Projetos Gustavo\Clinica Soft\fontes\Unit1.pas</Transaction>
+    <Transaction>2019/09/03 21:52:26.000.040,C:\Projetos Gustavo\Clinica Soft\fontes\Unit1.pas=C:\Projetos Gustavo\Clinica Soft\fontes\Login.pas</Transaction>
+    <Transaction>2019/09/03 21:52:26.000.040,C:\Projetos Gustavo\Clinica Soft\fontes\Unit1.dfm=C:\Projetos Gustavo\Clinica Soft\fontes\Login.dfm</Transaction>
+    <Transaction>2019/10/08 21:06:44.000.634,=C:\Projetos Gustavo\Clinica Soft\fontes\Unit1.pas</Transaction>
+  </Transactions>
+	<ActiveMobileDevice>
+		<NoProfile iOSSimulator="iPhone5"/>
+	</ActiveMobileDevice>
+	<ProjectSortOrder AutoSort="0" SortType="0">
+    <File Path="Login.pas"/>
+    <File Path="Login.dfm"/>
+    <File Path="modulo.pas"/>
+    <File Path="modulo.dfm"/>
+    <File Path="principal.pas"/>
+    <File Path="principal.dfm"/>
+  </ProjectSortOrder>
+</BorlandProject>
